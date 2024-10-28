@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "code update for github webhook");
+        System.out.println( "code update for  webhook");
     }
 }
